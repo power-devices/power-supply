@@ -1,7 +1,7 @@
 # Welcome to the Power Supply electronics repository
 
-![REV1 board front 3D model](https://github.com/power-devices/power-supply-electronics/blob/main/production/rev1/board_front.png)
-![REV1 board rear 3D model](https://github.com/power-devices/power-supply-electronics/blob/main/production/rev1/board_rear.png)
+![REV1 board front 3D model](https://github.com/power-devices/power-supply-electronics/blob/main/production/REV1/board_front.png?raw=true)
+![REV1 board rear 3D model](https://github.com/power-devices/power-supply-electronics/blob/main/production/REV1/board_rear.png)
 I teach power electronics and I want to provide my students the best experience possible. This is the reason I created this project. I intend to allow people to produce power electronics devices at an extreme low cost. This board required only 2 layers, but this is no problem today due to [JLCPCB](https://jlcpcb.com/) or other manufacturers.
 
 So far, the project is divided into 3 pieces:
